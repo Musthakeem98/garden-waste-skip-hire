@@ -33,7 +33,7 @@ This project focuses on applying key UI/UX principles to ensure a smooth and vis
 
 The application is **deployed and live**! You can view the developed UI here:
 
-👉 [Live Website Link](https://musthakeem98.github.io/Business-Skip-Hire-app/) <!-- Replace this with the actual deployed URL -->
+👉 [Live Website Link](https://musthakeem98.github.io/garden-waste-skip-hire/) <!-- Replace this with the actual deployed URL -->
 
 ---
 
@@ -55,7 +55,7 @@ npm install
 npm run dev
 ```
 
-- Open your browser and navigate to [Local Website Link](http://localhost:5173) to see the app running locally.
+- Open your browser and navigate to [Local Website Link](http://localhost:5173/garden-waste-skip-hire/) to see the app running locally.
 
 
 ---
