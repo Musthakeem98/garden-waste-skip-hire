@@ -1,0 +1,26 @@
+:root {
+  font-family: 'Poppins', Inter, system-ui, sans-serif;
+  line-height: 1.6;
+  font-weight: 400;
+
+  color-scheme: light;
+  color: #1f2937;
+  background-color: #f3f4f6;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  --primary: #3b82f6;      
+  --primary-light: #60a5fa;
+  --gray-light: #e5e7eb;
+  --gray-dark: #9ca3af;
+}
+
+body {
+  background-color: #f9fafb;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  color: #1f2937;
+}
