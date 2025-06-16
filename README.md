@@ -43,10 +43,10 @@ If you prefer to view or modify the code locally, follow these steps:
 
 ```bash
 # Clone the repo
-git clone git@github.com:Musthakeem98/Business-Skip-Hire-app.git
+git clone git@github.com:Musthakeem98/garden-waste-skip-hire.git
 
 # Navigate into the project folder
-cd Business-Skip-Hire-app
+cd garden-waste-skip-hire
 
 # Install dependencies
 npm install
