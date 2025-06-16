@@ -29,8 +29,8 @@ const SkipGrid = () => {
   }, []);
 
   const getImageBySize = (size: number): string => {
-    return `src/assets/images/${size}-yarder-skip.jpg`;
-  };
+    return new URL(`../../assets/images/${size}-yarder-skip.jpg`, import.meta.url).href;
+  };  
 
   const onClickSkip = (id: number): void => {
     setSelectedSkipId(selectedSkipId === id ? null : id);
